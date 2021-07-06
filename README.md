@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Data Mining
 - 📫 How to reach me: ... *kyunghee.kira@gmail.com*
 - 😄 You may call me: ... **KIRA**
-- ⚡ Fun fact: ... You want to ask me "Do you know *Death Note*?
+- ⚡ Fun fact: ... You want to ask me "Do you know *Death Note?*" Right?? Yes I do know!😄

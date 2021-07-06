@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... [Super Intelligence](https://supersapiens.skku.edu/main/theme/ict/sub/education1.php)
-- 🌱 I’m currently learning ... **Data Mining**
-- 📫 How to reach me: ... **kyunghee.kira@gmail.com**
+- 🌱 I’m currently learning ... Data Mining
+- 📫 How to reach me: ... *kyunghee.kira@gmail.com*
 - 😄 You may call me: ... **KIRA**
 - ⚡ Fun fact: ... You want to ask me "Do you know *Death Note*?
